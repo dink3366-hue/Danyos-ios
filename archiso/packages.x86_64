@@ -273,3 +273,20 @@ git
 
 #grub theme
 alci-grub-theme-git
+
+# --- Графическая оболочка KDE ---
+plasma-meta
+kde-applications-meta
+sddm
+
+# --- Драйверы ---
+xf86-video-intel
+xf86-video-amdgpu
+nvidia-open
+mesa
+
+# --- Сеть и звук ---
+networkmanager
+pipewire
+pipewire-pulse
+wireplumber
